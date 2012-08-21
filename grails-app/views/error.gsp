@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Grails Runtime Exception 123 123</title>
+		<title>Grails Runtime Exception 123--</title>
 		<meta name="layout" content="main">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'errors.css')}" type="text/css">
 	</head>
