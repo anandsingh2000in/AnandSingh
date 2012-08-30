@@ -1,5 +1,5 @@
-<!doctype html>
-<html>
+<!doctype html>   
+<html> 
 	<head>
 		<meta name="layout" content="main"/>
 		<title>Welcome to Grails</title>
@@ -16,7 +16,7 @@
 				box-shadow: 0px 0px 1.25em #ccc;
 				-moz-border-radius: 0.6em;
 				-webkit-border-radius: 0.6em;
-				border-radius: 0.6em;
+				border-radius: 0.8em;
 			}
  
 			.ie6 #status {
